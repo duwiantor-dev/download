@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="CODEX.ID", layout="wide")
 
-CODEX_URL = "https://drive.google.com/uc?export=download&id=1Kvrc6OlMMk0RIyuXrfiD2V-3HgdP-Lgh"
+CODEX_URL = "https://drive.google.com/drive/u/3/folders/1r3qVqmm1ALfLGaLuvagAf5EQuMVT0iWI"
 ADDON_URL = "https://docs.google.com/spreadsheets/d/1yMGSboto7eVryyx6m1QlgHDNHSH3mj8r/export?format=xlsx"
 
 st.markdown(
